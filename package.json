@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/TluwaniMS/JAVASCRIPT-ARRAY-AND-OBJECT-MANIPULATION-PRACTICE/issues"
   },
-  "homepage": "https://github.com/TluwaniMS/JAVASCRIPT-ARRAY-AND-OBJECT-MANIPULATION-PRACTICE#readme"
+  "homepage": "https://github.com/TluwaniMS/JAVASCRIPT-ARRAY-AND-OBJECT-MANIPULATION-PRACTICE#readme",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
 }
