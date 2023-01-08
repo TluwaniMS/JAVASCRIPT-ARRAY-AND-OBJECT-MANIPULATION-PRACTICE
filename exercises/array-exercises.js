@@ -87,7 +87,7 @@ module.exports.returnTheArraySizeOfTheFirstArrayElementInTheMainArray = () => {
 
 // Exercise 3.✍
 
-// 3.1 Return the array containing numbers 6 and 8⚡
+// 3.1 Return the array containing numbers 6 and 8.⚡
 // Expected answer [6, 8] ✅
 
 module.exports.returnArrayContainingSixAndEight = () => {
@@ -101,7 +101,7 @@ module.exports.returnArrayContainingSixAndEight = () => {
   ];
 };
 
-// 3.2 Return the element/value 4 from the array⚡
+// 3.2 Return the element/value 4 from the array.⚡
 // Expected answer 4 ✅
 
 module.exports.returnValueFourFromArray = () => {
