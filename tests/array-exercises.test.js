@@ -1,18 +1,18 @@
 describe("Tests for array exercises.", () => {
   describe("Exercise 1 tests. (Array Exercises)", () => {
-    test("1.1 Testing solution for returning element/value 2", () => {
+    test("1.1 Testing solution for returning element/value 2.", () => {
       const {} = require("../exercises/array-exercises");
     });
 
-    test("1.2 Testing solution for returning element/value 4", () => {
+    test("1.2 Testing solution for returning element/value 4.", () => {
       const {} = require("../exercises/array-exercises");
     });
 
-    test("1.3 Testing the solution to return the array size", () => {
+    test("1.3 Testing the solution to return the array size.", () => {
       const {} = require("../exercises/array-exercises");
     });
 
-    test("1.4 Testing the solution to add number 5 to the array", () => {
+    test("1.4 Testing the solution to add number 5 to the array.", () => {
       const {} = require("../exercises/array-exercises");
     });
   });
@@ -44,7 +44,7 @@ describe("Tests for array exercises.", () => {
       const {} = require("../exercises/array-exercises");
     });
 
-    test("3.2 Testing the solution to return the element/value 4 from the array", () => {
+    test("3.2 Testing the solution to return the element/value 4 from the array.", () => {
       const {} = require("../exercises/array-exercises");
     });
 
