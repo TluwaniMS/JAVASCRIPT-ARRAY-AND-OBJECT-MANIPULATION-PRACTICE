@@ -78,7 +78,7 @@ module.exports.returnSummedTotalOfTheProductsQuantities = () => {
 };
 
 // 4.2 Return the summed total of the prices of all the products.⚡
-// Expected answer 211✅
+// Expected answer 211 ✅
 
 module.exports.returnSummedTotalOfTheProductsPrices = () => {
   const products = [
