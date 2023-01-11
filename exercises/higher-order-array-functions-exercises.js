@@ -1,7 +1,7 @@
 // Exercise 1. (Map Function) ✍
 
 // 1.1 Return an array that contains the names only, of the people in the given array using the Map Function.⚡
-// Expected answer ✅
+// Expected answer ["Tshepo","Daniel","Lethabo","Skomoto"] ✅
 
 module.exports.returnPeoplesNamesUsingMap = () => {
   const people = [
@@ -15,7 +15,7 @@ module.exports.returnPeoplesNamesUsingMap = () => {
 // Exercise 2. (Filter Function) ✍
 
 // 2.1 Return an array of users that are 18 years or older.⚡
-// Expected answer ✅
+// Expected answer  [{ name: "Daniel", surname: "Ntsoane", age: 19, gender: "Female" },{ name: "Lethabo", surname: "Moseamo", age: 30, gender: "Male" },{ name: "Skomoto", surname: "Cooper", age: 21, gender: "Female" },{ name: "Andrew", surname: "Langa", age: 33, gender: "Female" },{ name: "Trevor", surname: "Kipembe", age: 27, gender: "Female" },{ name: "Khaya", surname: "Mseleku", age: 32, gender: "Male" }]✅
 
 module.exports.returnPeopleThatAre18YearsOrOlder = () => {
   const people = [
@@ -32,7 +32,7 @@ module.exports.returnPeopleThatAre18YearsOrOlder = () => {
 };
 
 // 2.2 Return an array of users that are 18 years or older and are female.⚡
-// Expected answer ✅
+// Expected answer [{ name: "Daniel", surname: "Ntsoane", age: 19, gender: "Female" },{ name: "Skomoto", surname: "Cooper", age: 21, gender: "Female" },{ name: "Andrew", surname: "Langa", age: 33, gender: "Female" },{ name: "Trevor", surname: "Kipembe", age: 27, gender: "Female" }]✅
 
 module.exports.returnPeopleThatAre18YearsOrOlderAndAreFemale = () => {
   const people = [
@@ -51,7 +51,7 @@ module.exports.returnPeopleThatAre18YearsOrOlderAndAreFemale = () => {
 // Exercise 3. (forEach Function) ✍
 
 // 3.1 Generate an email for every user e.g(name.surname@mock.com) and add the email property to every user with the generated email as the value.⚡
-// Expected answer ✅
+// Expected answer [{ name: "Tshepo", surname: "Mailula", email: "Tshepo.Mailula@mock.com" },{ name: "Daniel", surname: "Ntsoane", email: "Daniel.Ntsoane@mock.com" },{ name: "Lethabo", surname: "Moseamo", email: "Lethabo.Moseamo@mock.com" },{ name: "Skomoto", surname: "Cooper", email: "Skomoto.Cooper@mock.com" }]✅
 
 module.exports.generateAnEmailForEveryUserAndAddTheEmailPropertyToEveryUser = () => {
   const people = [
@@ -65,7 +65,7 @@ module.exports.generateAnEmailForEveryUserAndAddTheEmailPropertyToEveryUser = ()
 // Exercise 4. (Reduce Function) ✍
 
 // 4.1 Return the summed total of the quantity of all the products.⚡
-// Expected answer ✅
+// Expected answer 11 ✅
 
 module.exports.returnSummedTotalOfTheProductsQuantities = () => {
   const products = [
@@ -78,7 +78,7 @@ module.exports.returnSummedTotalOfTheProductsQuantities = () => {
 };
 
 // 4.2 Return the summed total of the prices of all the products.⚡
-// Expected answer ✅
+// Expected answer 211✅
 
 module.exports.returnSummedTotalOfTheProductsPrices = () => {
   const products = [
