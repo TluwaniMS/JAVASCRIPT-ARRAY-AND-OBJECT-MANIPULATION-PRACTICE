@@ -1,14 +1,14 @@
 // Exercise 1.✍
 
 // 1.1. Return the persons name.⚡
-// Expected answer Themba✅
+// Expected answer Themba ✅
 
 module.exports.returnThePersonsName = () => {
   const person = { name: "Themba", surname: "Mahlalela", age: 27 };
 };
 
 // 1.2. Return the persons age.⚡
-// Expected answer 27✅
+// Expected answer 27 ✅
 
 module.exports.returnThePersonsAge = () => {
   const person = { name: "Themba", surname: "Mahlalela", age: 27 };
@@ -118,10 +118,10 @@ module.exports.returnThePersonsWorkAddressAreaCode = () => {
   };
 };
 
-// 3.3. Add a parents property that has properties father and mother, the mother property should be given the value {name:'Engelinah',surname:'Roots'}, and the father property should be given the following value { name:'Elvin',surname:'Roots' }.⚡
+// 3.4. Add a parents property that has properties father and mother, the mother property should be given the value {name:'Engelinah',surname:'Roots'}, and the father property should be given the following value { name:'Elvin',surname:'Roots' }.⚡
 // Expected answer { name: "Ashwin",surname: "Govender",age: 27,parents: { father: { name: "Elvin", surname: "Roots" }, mother: { name: "Engelinah", surname: "Roots" }}} ✅
 
-module.exports.fn = () => {
+module.exports.addParentsPropertyToPerson = () => {
   const person = {
     name: "Ashwin",
     surname: "Govender",
