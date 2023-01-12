@@ -15,4 +15,6 @@ This is a practice repository that was created with the intention to help Javasc
 
 # Project Setup:
 
+Switch to the projects root directory, and run `npm install` to install the required packages.
+
 
