@@ -1,22 +1,23 @@
 {
-  "name": "javascript-array-and-object-manipulation-practice",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/TluwaniMS/JAVASCRIPT-ARRAY-AND-OBJECT-MANIPULATION-PRACTICE.git"
-  },
-  "author": "TCMMMS",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/TluwaniMS/JAVASCRIPT-ARRAY-AND-OBJECT-MANIPULATION-PRACTICE/issues"
-  },
-  "homepage": "https://github.com/TluwaniMS/JAVASCRIPT-ARRAY-AND-OBJECT-MANIPULATION-PRACTICE#readme",
-  "devDependencies": {
-    "jest": "^29.3.1"
-  }
+    "name": "javascript-array-and-object-manipulation-practice",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/TluwaniMS/JAVASCRIPT-ARRAY-AND-OBJECT-MANIPULATION-PRACTICE.git"
+    },
+    "author": "TCMMMS",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/TluwaniMS/JAVASCRIPT-ARRAY-AND-OBJECT-MANIPULATION-PRACTICE/issues"
+    },
+    "homepage": "https://github.com/TluwaniMS/JAVASCRIPT-ARRAY-AND-OBJECT-MANIPULATION-PRACTICE#readme",
+    "devDependencies": {
+        "jest": "^29.3.1",
+        "prettier": "^2.8.2"
+    }
 }
