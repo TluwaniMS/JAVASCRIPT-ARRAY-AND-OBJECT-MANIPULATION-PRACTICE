@@ -69,7 +69,7 @@ return sumOfValue1andValue2
 
 * Once you're satisfied with the soulution you've provided, you can head to the tests folder and open the file linked to the exercise you completed;
 * Identify the exercise you've completed and uncomment the test linked to it.
-* Once you've uncommented the test linked to the exercise you've completed, run `npm run test-solutions` to test the solutions you provided/
+* Once you've uncommented the test linked to the exercise you've completed, run `npm run test-solutions` to test the solutions you provided.
 
 `Repeat the steps specified above until you've completed all the exercises.`
 
