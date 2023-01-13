@@ -24,7 +24,7 @@ Exercises are found in the the exercises folder.
 There are four exercises:
 
 -   Array Exercises
--   Combined Array and Obvject Exercises
+-   Combined Array and Object Exercises
 -   Array Higher Order Function Exercises
 -   Object Exercises
 
