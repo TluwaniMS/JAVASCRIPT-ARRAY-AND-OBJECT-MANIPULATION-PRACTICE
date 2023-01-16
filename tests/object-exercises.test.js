@@ -15,8 +15,8 @@ describe("Tests for Object Exercise", () => {
         //     const {
         //         returnThePersonsAge
         //     } = require("../exercises/object-exercises");
-        //     const value = returnThePersonsAge(27);
-        //     expect(value).toEqual();
+        //     const value = returnThePersonsAge();
+        //     expect(value).toEqual(27);
         // });
         // test("1.3 Testing solution for returning the persons surname. ", () => {
         //     const {
